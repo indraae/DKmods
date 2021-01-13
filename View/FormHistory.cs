@@ -10,21 +10,11 @@ using System.Windows.Forms;
 
 namespace DKmods.View
 {
-    public partial class FormBuycs : Form
+    public partial class FormHistory : Form
     {
-        public FormBuycs()
+        public FormHistory()
         {
             InitializeComponent();
-        }
-
-        private void guna2Button1_Click(object sender, EventArgs e)
-        {
-
-        }
-
-        private void label2_Click(object sender, EventArgs e)
-        {
-
         }
     }
 }

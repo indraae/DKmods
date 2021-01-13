@@ -112,18 +112,19 @@
             this.label2.AutoSize = true;
             this.label2.Location = new System.Drawing.Point(31, 158);
             this.label2.Name = "label2";
-            this.label2.Size = new System.Drawing.Size(44, 17);
+            this.label2.Size = new System.Drawing.Size(40, 17);
             this.label2.TabIndex = 0;
-            this.label2.Text = "TYPE";
+            this.label2.Text = "Type";
+            this.label2.Click += new System.EventHandler(this.label2_Click);
             // 
             // label3
             // 
             this.label3.AutoSize = true;
             this.label3.Location = new System.Drawing.Point(31, 218);
             this.label3.Name = "label3";
-            this.label3.Size = new System.Drawing.Size(48, 17);
+            this.label3.Size = new System.Drawing.Size(40, 17);
             this.label3.TabIndex = 0;
-            this.label3.Text = "PRICE";
+            this.label3.Text = "Price";
             // 
             // btnBuy
             // 
