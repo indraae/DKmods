@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30517.126
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DKmods", "DKmods.csproj", "{9059EED6-8BA4-45F2-AA4B-FA21721D0A69}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9059EED6-8BA4-45F2-AA4B-FA21721D0A69}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9059EED6-8BA4-45F2-AA4B-FA21721D0A69}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9059EED6-8BA4-45F2-AA4B-FA21721D0A69}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9059EED6-8BA4-45F2-AA4B-FA21721D0A69}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D82F735B-BBC5-449E-B4ED-C37FB6329B37}
+	EndGlobalSection
+EndGlobal
